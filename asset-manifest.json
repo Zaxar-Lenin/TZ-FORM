@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TZ-FORM/static/css/main.fdb8f1c8.css",
+    "main.js": "/TZ-FORM/static/js/main.cc083907.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TZ-FORM/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TZ-FORM/index.html",
+    "main.fdb8f1c8.css.map": "/TZ-FORM/static/css/main.fdb8f1c8.css.map",
+    "main.cc083907.js.map": "/TZ-FORM/static/js/main.cc083907.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TZ-FORM/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdb8f1c8.css",
+    "static/js/main.cc083907.js"
+  ]
+}
